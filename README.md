@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+    <img src="./assets/headers/about-me-light.gif#gh-light-mode-only" alt="about-me" width="400" />
+    <img src="./assets/cats/smart-light.gif#gh-light-mode-only" alt="smart-cat" height="200" width="200" />
+    <img src="./assets/headers/about-me-dark.gif#gh-dark-mode-only" alt="about-me" width="400" />
+    <img src="./assets/cats/smart-dark.gif#gh-dark-mode-only" alt="smart-cat" height="200" width="200" />
+</p>
