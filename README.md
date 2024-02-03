@@ -2,7 +2,7 @@
 Heyyaaa!<br>
 ![hii](https://i.postimg.cc/mrQv3pcY/budding-pop-cute.gif)
 <br>
-I'm Rucha<br>Coder, Developer, Design<br>Designing life like a well-structured code – elegant, efficient, and occasionally filled with unexpected errors that make for the best stories in the development of my existence :)
+I'm Rucha<br>Coder, Developer, Designer<br>Designing life like a well-structured code – elegant, efficient, and occasionally filled with unexpected errors that make for the best stories in the development of my existence :)
 
 
 ## 🌐 Socials:
