@@ -7,6 +7,7 @@ I'm Rucha<br>Coder, Developer, Designer<br>Designing life like a well-structured
 
 ## 🌐 Socials:
 ![socials](https://i.postimg.cc/yNdfxfm6/phone.gif)
+<br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rucha_ikare) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rucha-Ikare) 
 
 # 💻 Tech Stack:
